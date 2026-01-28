@@ -4,37 +4,35 @@
 #### Purpose: Define how customer orders are reviewed, produced, verified, and shipped to ensure conformity with requirements.
 #### Scope: Applies to all thermocouple and temperature measurement assemblies produced within the defined ISO scope.
 #### Responsibility: Management, Operators, and Authorized Personnel as defined below.
+
+1. Process Overview
 ``` 
-Customer Order is recieved
+Customer Order
 ↓
-Work Order (QA)
-- work order is created - by manager
-- Orders are reviewed - by employee
-- Unclear orders stop and get clarified
+Work Order & Order Review (QA)
 ↓
 Material Selection (QA)
-• materials verified suitable 
-• visual check
 ↓
 Manufacturing / Machining
-- parts are made by OP
 ↓
 Assembly / Fabrication
 ↓
 Calibration / Verification (QC)
-• defined acceptance criteria
-• pass / fail decision
-• result recorded
 ↓
 Labeling & Identification
-• job / WO identification
-• traceability as applicable
 ↓
 Final Review & Packaging (QC)
-• correct item
-• correct customer
-• documentation present
 ↓
 Shipping
-
 ```
+
+2. Order Receipt & Work Order (QA)
+- Customer orders are received and converted into a work order.
+- Work orders are created by management or authorized personnel.
+- Orders are reviewed for completeness, including:
+   - product type
+   - range
+   - tolerance
+   - quantity
+- If requirements are unclear or missing, work stops until clarification is obtained.
+- Record: Work Order (Order Review section)
