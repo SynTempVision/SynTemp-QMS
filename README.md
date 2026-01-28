@@ -1,9 +1,6 @@
 # iso9001 SOP-001
-### ISO, QA, QC, audits, SOPs
-### Standard: ISO 9001
-#### Purpose: Define how customer orders are reviewed, produced, verified, and shipped to ensure conformity with requirements.
-#### Scope: Applies to all thermocouple and temperature measurement assemblies produced within the defined ISO scope.
-#### Responsibility: Management, Operators, and Authorized Personnel as defined below.
+## Standard: ISO 9001
+### Scope: Design, manufacture, assembly, verification, and distribution of thermocouples.
 
 1. Process Overview
 ``` 
