@@ -1,4 +1,13 @@
 # ISO 9001 SOP-001
+# Quality Management System (QMS)
+
+This repository contains controlled quality documents for the organization.
+
+Only documents in the `main` branch are approved for use.
+Changes require review and approval via pull requests.
+Printed copies are uncontrolled.
+
+For questions or change requests, contact the Quality Lead.
 
 ## Clause 4 — Context of the Organization
 ### Scope: 
