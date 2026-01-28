@@ -1,4 +1,4 @@
-# iso9001 SOP-001
+# ISO 9001 SOP-001
 ### Scope: 
 - Design, manufacture, assembly, verification, and distribution of thermocouples.
 
