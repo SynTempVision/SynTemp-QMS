@@ -1,4 +1,6 @@
 # ISO 9001 SOP-001
+
+## Clause 4 — Context of the Organization
 ### Scope: 
 - Design, manufacture, assembly, verification, and distribution of thermocouples.
 
