@@ -1,13 +1,12 @@
-# Quality Objectives
+# Clause 6.2: Quality Objectives
 
-Document ID: QMS-03  
+Document ID: 03_Quality_Objectives  
 Version: 1.0  
 Owner:   
 Approved By:   
 Effective Date: 2026-03-01  
 
 ---
-
 ## Objectives
 
 SynTemp establishes measurable objectives to support the Quality Policy:
