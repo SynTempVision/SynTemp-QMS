@@ -2,8 +2,8 @@
 
 Document ID: QMS-01  
 Version: 1.0  
-Owner: Quality Manager  
-Approved By: CEO  
+Owner:    
+Approved By:   
 Effective Date: 2026-03-01  
 
 This document addresses ISO 9001:2015 Clauses:
