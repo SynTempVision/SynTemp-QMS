@@ -7,6 +7,7 @@ Approved By:
 Effective Date: 2026-03-01  
 
 ---
+## Clause 5.2 Scope of the QMS
 
 ## Policy Statement
 
